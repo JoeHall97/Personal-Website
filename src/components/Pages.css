@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+
+p {
+	font-size: 1.5em;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+.content-row {
+	padding-top: 15%;
+}
+
+.content-row-bottom {
+	padding: 15% 0%;
+}
+
+.content-row-top {
+	padding-top: 5%;
+}
+
+.subheader {
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 1.5em;
+}
